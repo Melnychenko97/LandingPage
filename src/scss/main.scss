@@ -49,7 +49,7 @@ $main-font: 'Cabin';
             font-size: 5em;
             letter-spacing: 0.4px;
           }
-          @media all and (max-width: 350px) {
+          @media all and (max-width: 360px) {
             position: static;
             font-size: 2.25em;
             letter-spacing: 0.4px;
@@ -108,7 +108,7 @@ $main-font: 'Cabin';
                 z-index: 5;
                 transform: rotate(-90deg);
               }
-              @media all and (max-width: 350px) {
+              @media all and (max-width: 360px) {
                 width: 40px;
                 top: 230px;
                 left: 43%;
@@ -125,7 +125,7 @@ $main-font: 'Cabin';
                 @media all and (max-width: 768px) {
                   margin: 0 0 20px 0;
                 }
-                @media all and (max-width: 350px) {
+                @media all and (max-width: 360px) {
                   margin: 0 0 10px 0;
                 }
               }
@@ -135,7 +135,7 @@ $main-font: 'Cabin';
                 @media all and (max-width: 768px) {
                   margin: 20px 0 0 0;
                 }
-                @media all and (max-width: 350px) {
+                @media all and (max-width: 360px) {
                   margin: 10px 0 0 0;
                 }
               }
@@ -153,7 +153,7 @@ $main-font: 'Cabin';
               &--wrapper {
                 height: 250px;
                 display: flex;
-                @media all and (max-width: 350px) {
+                @media all and (max-width: 360px) {
                   height: 200px;
                 }
               }
@@ -163,7 +163,7 @@ $main-font: 'Cabin';
                 height: 250px;
                 box-shadow: 0 0 80px rgba(36, 33, 31, 0.2);
 
-                @media all and (max-width: 350px) { /////////////////////////////////slider buttons//////////////
+                @media all and (max-width: 360px) { /////////////////////////////////slider buttons//////////////
                   width: 40px;
                   height: 200px;
                 }
@@ -184,7 +184,7 @@ $main-font: 'Cabin';
                 @media all and (max-width: 768px) {
                   background: #ffffff;
                 }
-                @media all and (max-width: 350px) {
+                @media all and (max-width: 360px) {
                   height: 40px;
                 }
 
@@ -226,7 +226,7 @@ $main-font: 'Cabin';
               @media all and (max-width: 768px) {
                 transform: rotate(90deg);
               }
-              @media all and (max-width: 350px) {
+              @media all and (max-width: 360px) {
                 width: 40px;
                 height: 40px;
               }
@@ -290,7 +290,7 @@ $main-font: 'Cabin';
                     height: auto;
                     padding-bottom: 65px;
                   }
-                  @media all and (max-width: 350px) {
+                  @media all and (max-width: 360px) {
                     overflow: hidden;
                   }
                 }
@@ -302,7 +302,7 @@ $main-font: 'Cabin';
                     height: auto;
                     margin: 0;
                   }
-                  @media all and (max-width: 350px) {
+                  @media all and (max-width: 360px) {
                     width: auto;
                     height: 241px;
                     transform: translateX(-140px);
@@ -322,7 +322,7 @@ $main-font: 'Cabin';
                     margin-top: 160px;
                     font-size: 1em;
                   }
-                  @media all and (max-width: 350px) {
+                  @media all and (max-width: 360px) {
                     margin-top: 180px;
                     font-size: 1em;
                   }
@@ -367,7 +367,7 @@ $main-font: 'Cabin';
                       top: 415px;
                       display: inline-block;
                     }
-                    @media all and (max-width: 350px) {
+                    @media all and (max-width: 360px) {
                       top: 335px;
                     }
                   }
@@ -518,7 +518,7 @@ $main-font: 'Cabin';
             width: 100%;
             text-align: center;
           }
-          @media all and (max-width: 350px) {
+          @media all and (max-width: 360px) {
             font-size: 1.5em;
             margin: 18px 0 0 55px;
             width: 250px;
@@ -644,7 +644,7 @@ $main-font: 'Cabin';
         display: flex;
         justify-content: center;
         align-items: flex-end;
-        @media all and (max-width: 350px) {
+        @media all and (max-width: 360px) {
           height: 618px;
         }
 
@@ -656,7 +656,7 @@ $main-font: 'Cabin';
           font-weight: 700;
           line-height: 53.33px;
           text-align: center;
-          @media all and (max-width: 350px) {
+          @media all and (max-width: 360px) {
             font-size: 1.375em;
             line-height: 30px;
             margin: 90px 0 0 0;
@@ -674,7 +674,7 @@ $main-font: 'Cabin';
             background-image: url("/build/assets/projects/projects-logotype.svg");
             background-repeat: no-repeat;
             background-position: center;
-            @media all and (max-width: 350px) {
+            @media all and (max-width: 360px) {
               width: 80%;
               left: 10%;
               top: 90px;
@@ -710,7 +710,7 @@ $main-font: 'Cabin';
       .footer {
         width: 100%;
         height: 113px;
-        @media all and (max-width: 350px) {
+        @media all and (max-width: 360px) {
           position: relative;
         }
 
@@ -720,7 +720,7 @@ $main-font: 'Cabin';
             height: 42px;
             display: flex;
             justify-content: space-between;
-            @media all and (max-width: 350px) {
+            @media all and (max-width: 360px) {
               flex-direction: column;
               //position: absolute;
               //width: 42px + 70px;
@@ -741,12 +741,12 @@ $main-font: 'Cabin';
           text-transform: uppercase;
           color: #646363;
           letter-spacing: 0.36px;
-          @media all and (max-width: 350px) {
+          @media all and (max-width: 360px) {
           }
 
           &--wrapper {
             margin-left: 7.421875%;
-            @media all and (max-width: 350px) {
+            @media all and (max-width: 360px) {
               margin: 0;
               position: absolute;
               bottom: 20px;
@@ -780,7 +780,7 @@ $main-font: 'Cabin';
           &--wrapper {
             width: 160px;
             transform: translateX(-20px);
-            @media all and (max-width: 350px) {
+            @media all and (max-width: 360px) {
               transform: translateX(0);
               order: -1;
             }
@@ -796,13 +796,13 @@ $main-font: 'Cabin';
           line-height: 9.33px;
           text-transform: uppercase;
           letter-spacing: 0.8px;
-          @media all and (max-width: 350px) {
+          @media all and (max-width: 360px) {
             font-size: 0.5625em;
           }
 
           &--wrapper {
             margin-right: 7.421875%;
-            @media all and (max-width: 350px) {
+            @media all and (max-width: 360px) {
               margin: 0;
               position: absolute;
               bottom: 45px;
@@ -820,7 +820,7 @@ $main-font: 'Cabin';
           line-height: 9.33px;
           text-transform: uppercase;
           letter-spacing: 0.4px;
-          @media all and (max-width: 350px) {
+          @media all and (max-width: 360px) {
             display: none;
           }
 
@@ -840,7 +840,7 @@ $main-font: 'Cabin';
           height: 15px;
           box-shadow: 0 29px 69px rgba(0, 0, 0, 0.09);
           border: 2px solid #ddb680;
-          @media all and (max-width: 350px) {
+          @media all and (max-width: 360px) {
             display: none;
           }
         }
